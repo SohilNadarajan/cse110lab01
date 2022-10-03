@@ -7,6 +7,7 @@ I developed a passion for programming in high school and have grown to love crea
 1. Java
 2. Python
 3. C++
+
 I can't wait to dive deeper into software engineering and strengthen my skills as well as build new ones. Feel free to contact me at **sohilgn@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/sohilnadarajan/)!
 
 I created this file with the command `vim index.md`. Check out the [README](README.md)!
