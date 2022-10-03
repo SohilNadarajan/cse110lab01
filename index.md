@@ -1,4 +1,4 @@
-![Skyline Image](https://free4kwallpapers.com/uploads/originals/2020/09/22/abstract-building-wallpaper.jpg)
+![Sohil Image](sohil.jpg)
 
 # Sohil Nadarajan
 > "You miss 100% of the shots you don't take" - Wayne Gretzky
