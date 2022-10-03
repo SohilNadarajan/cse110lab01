@@ -23,5 +23,5 @@ I started dancing in my last year of high school and enjoyed it enough to try ou
 
 - [x] Finish homework for this week
 - [x] Work on personal projects
-- [] Update resume
-- [] Plan out the next week
+- [ ] Update resume
+- [ ] Plan out the next week
